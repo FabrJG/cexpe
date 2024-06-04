@@ -1,0 +1,28 @@
+.colores{
+    color:darkslategrey;
+    text-align: center;
+    text-decoration: none;
+}
+
+.box{
+    background-color: white;
+}
+
+.bar_nav{
+    color:white;
+    text-decoration: none;
+}
+
+table{
+    background-color: #55BAC6;
+    width: 100%;
+}
+
+th, td{
+    padding: 50 px;
+}
+
+thead{
+    color: white;
+}
+
